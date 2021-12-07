@@ -59,7 +59,7 @@ char keystroke, input[1024]="", temp[1024]="";
 int X_coord=0, line_on=0, circle_on=0;
 char ctool[100]="IDLE";
 
-int textx, texty;
+int textx,texty;
 
 int r=0,g=0,b=0;
 
